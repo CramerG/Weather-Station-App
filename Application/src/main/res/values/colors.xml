@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="signinbutton">#39135B</color>
+    <color name="mainBlue">#2c3e50</color>
+    <color name="clickableText">#69b7ff</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff000d</color>
+    <color name="green">#34ff26</color>
+    <color name="yellow">#ffff26</color>
+    <color name="dialog_background">#eae8e5</color>
+    <color name="orange">#E84F0C</color>
+    <color name="blue">#0C2DE8</color>
+</resources>

@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\d36d947be34769ceb5b1934e2670cf4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\0f7b4aaffb73784a19eaff49dd20d8fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3ae870b28584fda7564af0b6d15d7601\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8b278e5df1a310ee12571a8aa1ff724a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\db95deefaae4a2e53426cab34ebfe17c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ad74a1c8024153f4962d3d6de890c73a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\269cb569b2c8ad685f6f5a0adc06512b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\00ba3f1fa85429e5df360e91fe284532\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4b29f04bd100d96249b646a2e2f5659f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\84ade6175af05c4ef8643b4a072bc4a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\dd71f38c3b39721f170879e3b6ddf871\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12510ac53d10c47956f6c31c7d4dd5e1\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3aa3669dfb3e75b213aa140a8d1361c0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:3:5-43
+	android:versionName
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:14:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:18:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:22:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:23:22-69
+application
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:25:5-52:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12510ac53d10c47956f6c31c7d4dd5e1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12510ac53d10c47956f6c31c7d4dd5e1\AndroidManifest.xml:9:5-20
+	android:screenOrientation
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:28:9-45
+	android:label
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:26:9-40
+	android:theme
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:29:9-39
+activity#com.WWU.CyberEnvironment.BLE.repository.DataVisualizationActivity
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:30:9-83
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:30:19-71
+activity#com.WWU.CyberEnvironment.BLE.authentication.LoginActivity
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:33:13-49
+	android:theme
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:32:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:38:27-74
+activity#com.WWU.CyberEnvironment.BLE.DeviceScanActivity
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:42:13-47
+activity#com.WWU.CyberEnvironment.BLE.DeviceControlActivity
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:46:13-50
+service#com.WWU.CyberEnvironment.BLE.BluetoothLeService
+ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:49:9-51:38
+	android:enabled
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:51:13-35
+	android:name
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml:50:13-47
+uses-sdk
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\d36d947be34769ceb5b1934e2670cf4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\d36d947be34769ceb5b1934e2670cf4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\0f7b4aaffb73784a19eaff49dd20d8fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\0f7b4aaffb73784a19eaff49dd20d8fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3ae870b28584fda7564af0b6d15d7601\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3ae870b28584fda7564af0b6d15d7601\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8b278e5df1a310ee12571a8aa1ff724a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8b278e5df1a310ee12571a8aa1ff724a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\db95deefaae4a2e53426cab34ebfe17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\db95deefaae4a2e53426cab34ebfe17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ad74a1c8024153f4962d3d6de890c73a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ad74a1c8024153f4962d3d6de890c73a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\269cb569b2c8ad685f6f5a0adc06512b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\269cb569b2c8ad685f6f5a0adc06512b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\00ba3f1fa85429e5df360e91fe284532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\00ba3f1fa85429e5df360e91fe284532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4b29f04bd100d96249b646a2e2f5659f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4b29f04bd100d96249b646a2e2f5659f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\84ade6175af05c4ef8643b4a072bc4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\84ade6175af05c4ef8643b4a072bc4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\dd71f38c3b39721f170879e3b6ddf871\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\dd71f38c3b39721f170879e3b6ddf871\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12510ac53d10c47956f6c31c7d4dd5e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12510ac53d10c47956f6c31c7d4dd5e1\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3aa3669dfb3e75b213aa140a8d1361c0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\guscr\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3aa3669dfb3e75b213aa140a8d1361c0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\guscr\Documents\weather-station-app\Application\src\main\AndroidManifest.xml

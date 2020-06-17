@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item>
+        <bitmap
+            android:src="@drawable/lake_bg"
+            android:tint="#6F000000"/>
+
+    </item>
+</selector>
